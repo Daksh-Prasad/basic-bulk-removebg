@@ -36,3 +36,5 @@ def remove_background_bulk(input_folder, output_folder):
 
 if __name__ == "__main__":
     remove_background_bulk(input_folder, output_folder)
+
+# Made by Daksh Prasad - https://github.com/Daksh-Prasad
